@@ -10,13 +10,6 @@ main {
   justify-content: center;
 }
 
-.topo {
-  display: flex;
-  justify-content: center;
-  margin-bottom: none;
-  background-color: #090324;
-}
-
 .atras {
   margin-top: -55px;
   background-image: url(../imagens/background-image.png);
@@ -24,6 +17,13 @@ main {
   background-position: center;
   background-repeat: no-repeat;
   padding-bottom: 10px;
+}
+
+.topo {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  background-color: #090324;
 }
 
 .pokedex {

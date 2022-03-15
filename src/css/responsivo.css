@@ -3,10 +3,19 @@
     font-size: 12px;
   }
 
+  .atras {
+    margin-top: -30px;
+    background-image: url(../imagens/background-image.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-bottom: 10px;
+  }
+
   .topo {
     display: flex;
     justify-content: center;
-    margin-bottom: none;
+    margin-bottom: 20px;
     background-color: #090324;
     height: 10vh;
   }
